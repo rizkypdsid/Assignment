@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">assignment</string>
+<string name="brand_name">Assignment Collage</string>
+<string name="fakultas_list">Fakultas List</string>
+<string name="fakultas_area">Fakultas Area</string>
+<string name="fakultas_app">Fakultas App</string>
+<string name="barvolume">BarVolume</string>
+<string name="blank">*blank*</string>
+<string-array name="fk_arry">
+    <item>Fakultas Teknik Informasi</item>
+    <item>Fakultas Ekonomi dan Bisnis</item>
+    <item>Fakultas Komunikasi dan Bahasa</item>
+</string-array>
+</resources>
